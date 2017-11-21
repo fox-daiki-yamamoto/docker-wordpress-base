@@ -13,7 +13,7 @@ services:
       - mysql
       - app
   app:
-      image: wordpress:4.8.3-php7.1-fpm
+      image: wordpress:4.9-php7.1-fpm
       restart: always
       volumes:
           - ./conf/php/cli.ini:/usr/local/etc/php/conf.d/cli.ini
