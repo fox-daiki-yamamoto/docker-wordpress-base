@@ -98,6 +98,10 @@ http://localhost:8011
 
 ## Changelog
 
+### 20180219
+
+WordPress4.9.1から4.9.4へ
+
 ### 20171206
 
 WordPress4.9から4.9.1へ
